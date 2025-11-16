@@ -82,6 +82,19 @@ Here’s a bit of what I’ve been working on.
 
 ---
 
+# 📌 [DIVANO](https://apps.apple.com/eg/app/divano/%20%20id6448907367)
+https://apps.apple.com/eg/app/divano/%20%20id6448907367
+ 
+| Section | Details |
+|---------|---------|
+| **🎯 SubTitle** | E-Commerce. |
+| **✏️ Description** | Built an e-commerce platform similar to Alibaba, enabling users to browse, search, and purchase a wide variety of products. Integrated social login and PayFort payment gateway to provide a secure and seamless shopping experience. |
+---
+
+<div align="center">
+
+# 📷 Screenshots  
+
 <div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/DIVANO/1242_2688_1.imageset/1242_2688_1.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/DIVANO/1242_2688_2.imageset/1242_2688_2.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
