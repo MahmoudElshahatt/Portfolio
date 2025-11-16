@@ -142,27 +142,5 @@ Here’s a bit of what I’ve been working on.
 
 ---
 
-# 📌 [Alexon Resturant (Company Product)]()
 
-| Section | Details |
-|---------|---------|
-| **🎯 SubTitle** | E-Commerce. |
-| **✏️ Description** | Developed a restaurant booking app for a newly launched company, allowing users to browse restaurants and reserve tables. Integrated Amazon Pay Fort for secure online payments and seamless booking experiences. |
----
-
-<div align="center">
-
-# 📷 Screenshots  
-
-<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(19).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(19).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(18).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(18).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(16).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(16).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(14).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(14).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(15).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(15).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
-  <img src="https://github.com/EslamAwad77/PortfolioAssets/blob/main/PortfolioAssets/Assets.xcassets/Alexon%20Resturants/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(17).imageset/WhatsApp%20Image%202025-11-04%20at%2023.24.36%20(17).jpeg" style="height: auto; width: 15%; min-width: 133px; border-radius: 8px;" />
-</div>
-</div>
-
----
 
