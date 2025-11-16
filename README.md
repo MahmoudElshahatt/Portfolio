@@ -82,4 +82,11 @@ Here’s a bit of what I’ve been working on.
 
 ---
 
+<div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/DIVANO/1242_2688_1.imageset/1242_2688_1.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/DIVANO/1242_2688_2.imageset/1242_2688_2.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/DIVANO/1242_2688_3.imageset/1242_2688_3.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/DIVANO/1242_2688_4.imageset/1242_2688_4.png" style="height: auto; width: 22%; min-width: 200px; border-radius: 8px;" />
+</div>
+</div>
 
