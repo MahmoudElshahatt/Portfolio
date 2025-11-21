@@ -1,6 +1,8 @@
 # Mahmoud Elshahatt — Android Developer Portfolio
 
-👋 Hi! I’m Mahmoud Elsayed Elshahatt, an Android Developer  || ( Kotlin - Jetpack Compose - Clean Architecture )
+👋 Hi! I’m Mahmoud Elshahatt — Android Developer passionate about building pixel-perfect, performant, and maintainable apps using modern Android stack (Kotlin, Jetpack Compose, Hilt/Dagger, Coroutines/Flow, Clean Architecture, and Modularization).
+I have a Bachelor's degree in Computer Science and Engineering from Mansoura University (2024). I’m driven by the desire to continuously grow and contribute to impactful products.
+
 
 # 🧩 Tech Stack & Experience Summary
 
