@@ -153,12 +153,11 @@ Here’s a bit of what I’ve been working on.
 
 <div style="display: flex; overflow-x: auto; justify-content: center; gap: 10px; padding: 10px;">
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash%20Delegate/1.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
-  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash%20Delegate/2.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash%20Delegate/3.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
+  <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash%20Delegate/2.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash%20Delegate/4.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash%20Delegate/5.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash%20Delegate/6.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
-
   <img src="https://github.com/MahmoudElshahatt/PortfolioAssets/blob/main/Easy%20Wash%20Delegate/8.png" style="height: auto; width: 22%; min-width: 190px; border-radius: 8px;" />
 </div>
 </div>
